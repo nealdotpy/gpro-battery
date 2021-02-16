@@ -3,3 +3,6 @@ gpro-battery: main.c
 
 clean:
 	rm gpro-battery
+
+run:
+	./gpro-battery
